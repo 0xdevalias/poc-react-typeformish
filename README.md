@@ -32,7 +32,7 @@ npm install
 npm start
 ```
 
-The example code can be found in [./src/TypeishformExample.js](./src/TypeishformExample.js)
+The example code can be found in [./src/TypeishformExample.js](./src/TypeishformExample.js#L26-L47)
 
 ## Create React App
 
